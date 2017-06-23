@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Final</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bienvenido_a_compraya">Bienvenido a CompraYa!</string>
+    <string name="registrate">Registrate</string>
+    <string name="entrar">Entrar</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">password</string>
+
+    <string name="nav_home">Inicio</string>
+    <string name="nav_poducto">Productos</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="nav_logout">Cerrar Sesion</string>
+    <string name="open_menu">menu_abierto</string>
+    <string name="close_menu">menu_cerrado</string>
+</resources>
